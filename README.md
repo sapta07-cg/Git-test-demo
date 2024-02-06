@@ -2,4 +2,4 @@
 
 This is my first Git repo
 
-Hello world
+We have added to local repo
